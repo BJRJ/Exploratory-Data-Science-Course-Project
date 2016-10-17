@@ -1,7 +1,7 @@
 Exploratory Data Analysis Project
 ========================================================
 
-#Assignment 2
+#Course Project
 
 Introduction
 -------------
